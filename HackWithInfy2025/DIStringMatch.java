@@ -5,7 +5,7 @@ public class DIStringMatch {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
         int n = s.length();
-
+        
         int low = 0, high = n;
         int[] result = new int[n + 1];
 
